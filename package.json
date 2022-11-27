@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  },
+  "name": "workspace",
+  "description": "",
+  "version": "1.0.0",
+  "main": "hello.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganesh1729ganesh/js-basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ganesh1729ganesh/js-basics/issues"
+  },
+  "homepage": "https://github.com/ganesh1729ganesh/js-basics#readme"
+}
